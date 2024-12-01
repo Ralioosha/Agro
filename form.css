@@ -1,0 +1,58 @@
+
+
+*{
+
+    text-decoration: none;
+    }
+    .navbar{
+    
+        background-color: rgb(97, 223, 97);
+        padding-right: 15px;
+        padding-left: 15px;
+        height: 55px;
+    }
+    .navdiv{
+    
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    li{
+    
+        list-style: none;
+        display: inline-block;
+    }
+    .logo{
+    
+        width: 45px;
+        height: 45px;
+    }
+
+
+
+nav :hover{
+
+    color:  rgb(198, 223, 97);
+
+}
+
+nav ul{
+
+    display: flex;
+    gap: 120px;
+justify-content: flex-end;
+} 
+a{
+    text-decoration: none;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+   
+} 
+
+.oluwale:hover{
+
+background-color:rgb(117, 194, 117);
+font-size: larger;
+}
